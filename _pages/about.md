@@ -7,7 +7,7 @@ subtitle: <a href='#'>Email</a> kew035@ucsd.edu
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
 
 
